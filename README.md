@@ -49,4 +49,4 @@ Detail-oriented Junior QA Engineer based in Kraków. I have over 1 year of exper
 ## Connect with me
 * **LinkedIn:** [linkedin.com/in/oleksii-horlach](https://www.linkedin.com/in/oleksii-horlach)
 * **Email:** horlacholeksii@gmail.com
-* **Location:** Kraków, Poland (Open to Remote/Hybrid/On site)
+* **Location:** Kraków, Poland (Open to Remote/Hybrid/On-site)
