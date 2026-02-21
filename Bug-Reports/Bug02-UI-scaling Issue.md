@@ -18,4 +18,5 @@ Professional Insight
 This issue is likely related to the high aspect ratio of the Samsung M14. The UI layout needs an anchor adjustment or a responsive scaling script to handle displays longer than 16:9 or 18:9.
 
 Attachments:
-image
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/fc80c558-801f-4844-aa39-9638b4eab6d2" />
+
