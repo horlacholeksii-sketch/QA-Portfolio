@@ -1,7 +1,7 @@
 # Bug Report: UI Elements Overlay in "Super Offer" Window
 
 **Project:** Bingo: Love in Montana
-**Severity:** Low / UI  
+**Severity:** Low / UI
 **Environment:** Samsung M14 (Android 15), Resolution: 1080 x 2408  
 
 ---
