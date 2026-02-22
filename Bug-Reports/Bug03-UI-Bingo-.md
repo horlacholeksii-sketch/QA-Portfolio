@@ -1,7 +1,7 @@
 # Bug Report: UI Elements Overlay in "Super Offer" Window
 
 **Project:** Bingo: Love in Montana
-**Severity:** Medium / UI  
+**Severity:** Low / UI  
 **Environment:** Samsung M14 (Android 15), Resolution: 1080 x 2408  
 
 ---
@@ -18,6 +18,9 @@ UI elements are correctly layered; decorative graphics should stay behind the ma
 
 ## Actual Result
 Decorative elements overlap the window frame, distracting the user and degrading the visual quality of the offer.
+
+---
+
 
 ## Attachments
 ![Screenshot_20260222_154948_Bingo_Love_in_Montana](https://github.com/user-attachments/assets/9a4d5139-1973-4e9d-9888-020086edcc87)
