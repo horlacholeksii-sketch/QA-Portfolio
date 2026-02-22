@@ -13,7 +13,7 @@ The "See more" button in the job description section becomes unresponsive if the
 1. Launch the LinkedIn application.
 2. Navigate to the **Jobs** tab.
 3. Tap on any job posting to open the **Job Details** view.
-4. Change the device orientation (Portrait -> Landscape).
+4. Change the device orientation (Portrait -> Landscape) or (Landscape -> Portrait).
 5. Attempt to tap the **"See more"** button to expand the text.
 6. Rotate the device back and try to tap the button again.
 
@@ -35,7 +35,7 @@ The "See more" button is completely unresponsive. The UI does not react to touch
 
 ## Attachments
 * **Logs:** [View Logcat File](./attachments/Bug01-LinkedIn-logs.txt)
-* **Screen Record:** [View Video](./attachments/Bug02-video.mp4)
+* **Screen Record:** [![Watch the video]([./attachments/Bug02-video.mp4](https://youtube.com/shorts/I4G1gm-qPLc?feature=share))
 
 ---
 
