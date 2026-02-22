@@ -11,8 +11,7 @@ The "Super Offers" popup window does not scale correctly to the device screen as
 
 ## Steps to Reproduce
 1. Launch the application.
-2. Wait for the main menu to load.
-3. Tap on the "Super Offer" popup on the left side of the screen.
+2. Tap on the "Super Offer" popup on the left side of the screen.
 
 ## Expected Result
 The "Super Offers" window should be fully visible, with all UI elements correctly scaled within the screen boundaries.
