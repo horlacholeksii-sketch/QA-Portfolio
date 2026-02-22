@@ -34,7 +34,7 @@ The "See more" button is completely unresponsive. The UI does not react to touch
 ---
 
 ## Attachments
-* **Logs:** [View Logcat File](./Bug-Reports/attachments/Bug01-LinkedIn-logs.txt)
+* **Logs:** [View Logcat File](./attachments/Bug01-LinkedIn-logs.txt)
 * **Screen Record:** [![Watch the video](https://youtube.com/shorts/I4G1gm-qPLc?feature=share)
 
 ---
