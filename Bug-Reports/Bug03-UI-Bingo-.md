@@ -1,7 +1,11 @@
 # Bug Report: UI Elements Overlay in "Super Offer" Window
-**Project:** LinkedIn
-**Severity:** Low / UI
-**Environment:** Samsung M14 (Android 15), Resolution: 1080 x 2408
+
+**Project:** Bingo: Love in Montana
+**Severity:** Medium / UI  
+**Environment:** Samsung M14 (Android 15), Resolution: 1080 x 2408  
+
+---
+
 ## Summary
 UI decorative elements (background graphics) overlap with the main "Super Offer" window frame, causing visual inconsistency.
 
