@@ -2,7 +2,7 @@
 
 **Project:** LinkedIn Android Application  
 **Severity:** Medium / UI  
-**Environment:** Samsung M14 (Android 15), Resolution 1080 x 2408  
+**Environment:** Samsung M14 (Android 15), Resolution: 1080 x 2408  
 
 ---
 
