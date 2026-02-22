@@ -1,19 +1,19 @@
 # Bug Report: Job Description Expansion Failure on Orientation Change
 
-**Project:** LinkedIn Android Application    
-**Severity:** Medium / UI 
+**Project:** LinkedIn Android Application  
+**Severity:** Medium / UI  
 **Environment:** Samsung M14 (Android 15), Resolution 1080 x 2408  
 
 ---
 
 ## Summary
-The "See more" button in the job description section becomes unresponsive if the device orientation is changed immediately after navigating to a job offer. The issue persists even after returning to the original orientation, preventing the user from reading the full job description.
+The "See more" button in the job description section becomes unresponsive if the device orientation is changed immediately after navigating to a job offer. The issue prevents the user from reading the full job description.
 
 ## Steps to Reproduce
 1. Launch the LinkedIn application.
 2. Navigate to the **Jobs** tab.
 3. Tap on any job posting to open the **Job Details** view.
-4. Change the device orientation (Portrait -> Landscape) or (Landscape -> Portrait).
+4. Change the device orientation (Portrait -> Landscape).
 5. Attempt to tap the **"See more"** button to expand the text.
 6. Rotate the device back and try to tap the button again.
 
@@ -21,23 +21,23 @@ The "See more" button in the job description section becomes unresponsive if the
 The job description should expand and collapse correctly regardless of any screen orientation changes.
 
 ## Actual Result
-The "See more" button is completely unresponsive. The job description remains in its collapsed state, and the UI does not react to touch events on the expansion trigger.
+The "See more" button is completely unresponsive. The UI does not react to touch events on the expansion trigger.
+
 ---
 
 ## Technical Analysis (Logcat Insights)
-Based on the provided logs, the issue is likely related to **Configuration Change** handling and deprecated layout attributes:
+[cite_start]Based on the logs provided, the issue relates to **Configuration Change** handling:
 
-* **Layout Constraints Errors:** Multiple errors from `com.linkedin.android` indicate the use of deprecated attributes:
-    * `E/ConstraintLayout: layout_constraintWidth_default="wrap" is deprecated.`
-    * `E/ConstraintLayout: layout_constraintHeight_default="wrap" is deprecated.`
-    * *Observation:* During the `onConfigurationChanged` event (orientation shift), these layout errors coincide with the button becoming unresponsive. This suggests a potential failure in the View binding or state restoration process after the activity/fragment recreation.
+* **Layout Constraints Errors:** Multiple errors from `com.linkedin.android` indicate deprecated attributes.
+* **Observation:** During `onConfigurationChanged`, layout errors coincide with the button becoming unresponsive. This suggests a failure in the View binding process.
+
 ---
 
 ## Attachments
-* **Logs:** ./Bug01-LinkedIn logs.txt/
-* **Screen Record:** `[link_to_video]`
+* **Logs:** [View Logcat File](./attachments/Bug01-LinkedIn-logs.txt)
+* **Screen Record:** [View Video](./attachments/Bug02-video.mp4)
 
 ---
 
 ## Possible Workaround
-Restarting the Activity by navigating back to the search results and re-entering the job offer restores functionality.
+Restarting the Activity by navigating back and re-entering the job offer restores functionality.
