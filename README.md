@@ -34,7 +34,7 @@ Detail-oriented Junior QA Engineer based in Kraków. I have over 1 year of exper
 ---
 
 ## Portfolio Projects
-* **[Mobile Testing Case Study](./Mobile-Testing/):** Documentation and bug reports for "Match3Rush" (Pre-Alpha) and "Bingo: Love in Montana" (Gold Master).
+* **[Mobile Testing Case Study](./Test-Documentation/):** Documentation and bug reports for "Match3Rush" (Pre-Alpha) and "Bingo: Love in Montana" (Gold Master).
 * **[Bug Report Samples](./Bug-Reports/):** Examples of high-quality defect reports with clear reproduction steps and expected outcomes.
 * **[Technical Logs](./Logs/):** Examples of using ADB Logcat to identify system-level crashes.
 
