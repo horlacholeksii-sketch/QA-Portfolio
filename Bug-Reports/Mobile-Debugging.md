@@ -1,26 +1,19 @@
-# Technical Skills: Mobile Debugging (Android)
+# Mobile Debugging Skills (Android)
 
-In my role as a Junior QA Engineer at **Galaxy4Games** and during various testing activities, I use a technical approach to identify the root causes of defects on the Android platform.
+Technical expertise in identifying root causes of defects using Android-specific tools, developed during testing cycles at **Galaxy4Games**.
 
-### Tools & Environment
-* **Android Studio:** Used for managing virtual devices and analyzing real-time system output via Logcat.
-* **Real Devices:** Testing on various hardware to ensure stability across different Android versions.
-* **ADB:** My primary command-line tool for device interaction and debugging.
+## Tools & Stack
+* **ADB:** Core tool for device interaction and log extraction.
+* **Android Studio:** Used for Logcat analysis and managing Virtual Devices.
+* **Real Devices:** Testing stability across various hardware and OS versions.
 
-### Essential ADB Commands I Use
-To provide developers with high-quality data, I utilize the following commands:
+## Essential ADB Commands
+* `adb logcat *:E` — Extracting system errors and crashes.
+* `adb install -r [path]` — Quick build deployment during regression testing.
+* `adb shell dumpsys meminfo` — Monitoring memory consumption to detect leaks.
+* `adb bugreport` — Generating full diagnostics for non-reproducible issues.
 
-* `adb logcat *:E` – To filter and capture system errors and application crashes.
-* `adb install -r [path_to_apk]` – For efficient build deployment and re-installation during regression testing.
-* `adb shell dumpsys meminfo [package_name]` – To monitor memory usage and identify potential leaks in game scenes.
-* `adb bugreport` – To generate comprehensive diagnostic files for complex, non-reproducible issues.
-
-### Practical Application (Galaxy4Games Experience)
-While testing **"Match 3 Stars: PVP Champions"**, I encountered a freeze during the level loading screen. By using **ADB Logcat**, I successfully captured a `NullPointerException`. 
-
-This allowed me to:
-1. Provide a specific stack trace to the development team.
-2. Reduce the debugging time for the engineers.
-3. Verify the fix efficiently in the next build.
-
----
+## Practical Case: Logcat Analysis
+During the development of **"Match 3 Stars: PVP Champions"**, I used Logcat to debug a loading screen freeze.
+* **Action:** Captured a `NullPointerException` stack trace.
+* **Result:** Provided logs to developers, significantly reducing time-to-fix and ensuring stability for the next build.
