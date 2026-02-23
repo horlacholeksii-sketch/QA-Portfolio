@@ -22,8 +22,6 @@ Network Resilience (Offline Mode): Disconnect the internet during gameplay; veri
 
 Session Recovery: Disconnect during a match and reconnect; verify the game session continues from the last saved state.
 
-Backgrounding Performance: Minimize the app for 2 minutes (Background state); verify the session is maintained upon returning.
-
 Hardware Optimization: Verify the app does not trigger "High Battery Usage" or "Overheating" warnings after 30 minutes of continuous play.
 
 3. UI, UX & Localization
