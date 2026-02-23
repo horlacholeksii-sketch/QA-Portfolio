@@ -3,9 +3,9 @@
 In my role as a Junior QA Engineer at **Galaxy4Games** and during various testing activities, I use a technical approach to identify the root causes of defects on the Android platform.
 
 ### Tools & Environment
-* **Android Studio:** Used for managing virtual devices (Emulators) and analyzing real-time system output via Logcat.
+* **Android Studio:** Used for managing virtual devices and analyzing real-time system output via Logcat.
 * **Real Devices:** Testing on various hardware to ensure stability across different Android versions.
-* **ADB (Android Debug Bridge):** My primary command-line tool for device interaction and debugging.
+* **ADB:** My primary command-line tool for device interaction and debugging.
 
 ### Essential ADB Commands I Use
 To provide developers with high-quality data, I utilize the following commands:
