@@ -21,3 +21,6 @@ The model is updated/synchronized without any data loss.
 The system reports that several objects were not transferred, resulting in an incomplete model in Robot.
 
 ---
+
+## Attachments
+<img width="680" height="466" alt="image" src="https://github.com/user-attachments/assets/5f25a555-2a8e-4ac8-a151-8aba741fcc6e" />
