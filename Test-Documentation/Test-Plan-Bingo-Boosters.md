@@ -2,7 +2,7 @@
 
 **Project:** Bingo: Love in Montana  
 **Focus:** Inventory Logic and Gameplay Synchronization  
-**Version:** 1.2 Revised
+**Version:** 1.2
 
 ---
 
