@@ -20,9 +20,8 @@ Detail-oriented Junior QA Engineer based in Kraków. I have over 1 year of exper
 ### **Autodesk Testing Event | Guest Beta Tester**
 *December 2025*
 * Selected to participate in a specialized, time-sensitive testing session for pre-release professional software.
-* Identified and documented **5 bugs** of varying severity levels.
-* Provided structured feedback on new feature stability and user workflow efficiency.
-* *Note: Specific project details are protected under a 5-year NDA.*
+* Identified and documented **functional and UI defects** of medium and low severity.
+* Provided structured feedback on user workflow efficiency and software integration under an NDA.
 
 ### **Junior QA Engineer | Galaxy4Games**
 *May 2023 – May 2024*
@@ -34,9 +33,11 @@ Detail-oriented Junior QA Engineer based in Kraków. I have over 1 year of exper
 ---
 
 ## Portfolio Projects
-* **[Mobile Testing Case Study](./Test-Documentation/):** Documentation and bug reports for "Match3Rush" (Pre-Alpha) and "Bingo: Love in Montana" (Gold Master).
-* **[Bug Report Samples](./Bug-Reports/):** Examples of high-quality defect reports with clear reproduction steps and expected outcomes.
-* **[Technical Logs](./Logs/):** Examples of using ADB Logcat to identify system-level crashes.
+* **[Bingo: Love in Montana — Full Documentation](./Test-Documentation/)**: A comprehensive Mobile QA case study including a **Test Plan, Requirements Traceability Matrix (RTM), and Regression Checklist**.
+* **[Cross-Platform Defect Reports](./Bug-Reports/)**: A collection of structured bug reports across various environments, including:
+    * **Mobile Games:** Gameplay and UI defects in "Bingo" and "Match 3".
+    * **Social Media:** Functional issues in LinkedIn.
+    * **Engineering Software:** Integration bugs in Revit-to-Robot data transfer.
 
 ---
 
