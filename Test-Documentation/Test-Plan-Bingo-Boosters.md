@@ -34,7 +34,7 @@
 
 ---
 
-## 🧪 Detailed Test Cases
+## Test Cases
 
 | ID | Title | Scenario | Expected Result |
 | :--- | :--- | :--- | :--- |
