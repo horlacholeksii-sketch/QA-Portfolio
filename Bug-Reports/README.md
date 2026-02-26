@@ -7,7 +7,7 @@ This folder contains documentation examples demonstrating my defect reporting st
 ## Professional Experience: Mobile Testing
 Defects identified during active development and beta phases at **Galaxy4Games**.
 
-* **[Android UI Layout Issue](./mobile-ui-bug.md)** — A layout defect identified on a 20:9 screen ratio. Includes reproduction steps and visual evidence.
+* **[Android UI Layout Issue](./Bug02-UI-Bingo-scaling-Issue.md)** — A layout defect identified on a 20:9 screen ratio. Includes reproduction steps and visual evidence.
 
 ## Independent Quality Research
 To demonstrate reporting skills across diverse environments, I perform independent testing of widely used applications and professional tools.
