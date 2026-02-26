@@ -20,4 +20,3 @@ To demonstrate reporting skills across diverse environments, I perform independe
   *Note: Specific project details and reports from this event are protected under a 5-year NDA and are not included in this portfolio.*
 
 ---
-*All reports are formatted to ensure clarity, technical accuracy, and ease of reproduction for development teams.*
