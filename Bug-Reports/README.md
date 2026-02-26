@@ -12,7 +12,7 @@ Defects identified during active development and beta phases at **Galaxy4Games**
 ## Independent Quality Research
 To demonstrate reporting skills across diverse environments, I perform independent testing of widely used applications and professional tools.
 
-* **[Social Media: LinkedIn](./Bug01-LinkedIn-Log.md)** — A functional defect identified in the mobile web version. Includes an ADB Logcat snippet to show the root cause.
+* **[Social Media: LinkedIn](./Bug01-linkedin-orientation-Issue.md)** — A functional defect identified in the mobile web version. Includes an ADB Logcat snippet to show the root cause.
 * **[Engineering Software: Revit-to-Robot](./Bug04-Revit-Robot-Transfer.md)** — A complex integration bug involving data synchronization between BIM and structural analysis tools.
 
 ## Testing Events
